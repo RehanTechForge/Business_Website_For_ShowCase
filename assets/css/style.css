@@ -1,0 +1,275 @@
+*{box-sizing: border-box;}
+.inner{
+	position: absolute;
+	z-index: 2;
+	
+}
+.slider{
+	position: relative;
+	z-index: 0;
+}
+.menu{
+	background: rgb(0,0,0,.5);}
+.icon{
+	
+	color: white;
+	font-size: 25px;
+}
+.icon:hover{
+	color: white;
+}
+.link{
+	color: white;
+
+}
+
+.link:hover{
+	color:  #febc35;
+}
+
+.center{
+	color:  #febc35;
+	font-size: 30px;
+}
+.color{
+	color: white;
+}
+.color1{
+	color: #aaaa8c;
+}
+.over:hover{
+	background: black;
+	color: white;
+}
+span:hover{
+	color: black;
+}
+.abc{
+	display: inline-block;
+	margin-left: 10px;
+}
+.abc:hover{
+	cursor: pointer;
+	color: black;
+}
+.figure{
+	overflow: hidden;
+}
+.imgover:hover{
+	transform: scale(1.1);
+	transition: .5s;
+}
+.fdiv{
+	position: absolute;
+	z-index: 1;
+}
+.bximg{
+	position: relative;
+	z-index: -1;
+}
+.fh{
+	position: absolute;
+}
+.demo{
+        background: url('../images/back2.jpg');
+        padding: 5% 0%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+      }
+.btn1{
+	font-size: 35px;
+	color: #febc35;
+}
+.color{
+	color: white;
+}
+.demo1{
+	background: url('../images/back1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.demo1 ul{
+	color: #aeadac;
+}
+.demo1 ul li{
+	color: #febc35;
+	font-size: 35px;
+}
+.innerover:hover{
+	color: #febc35;
+} 
+.demo2{
+	background-image: url('../images/footer1.jpg');
+	padding: 5% 0%;  
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.form-email{
+	    padding: 6px 26px;
+            margin: 0px 15px;
+        border-radius: 7px 0px 0px 7px;
+}
+.btn2{
+	    background: orange;
+    color: black;
+    padding: 6px 21px;
+        border: none;
+    border-radius: 0px 7px 7px 0px;
+}
+.btn2:hover{
+	background-color: black;
+	color: white;
+}
+.btn3{
+	    font-size: 25px;
+    border-radius: 50%;
+    border: 1px black solid;
+    padding: 5px 10px;
+    background: orange;
+}
+.btn3:hover{
+	background-color: #139ef8;
+	color: white;
+}
+
+nav a{
+	color: black;
+	text-decoration: none;
+	font-size: 20px;
+}
+.anchor{
+	text-decoration: none;
+	color: black;
+	font-size: 20px;
+}
+.demo4{
+	background-image: url('../images/parallex.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 25% 0%;
+	background-attachment: fixed;
+}
+.demo5{
+	background-image: url('../images/parallex.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 0% 0%;
+}
+.btn5{
+	color: white;
+}
+.color1{
+	color: white;
+}
+.rgb{
+	background: rgba(0,0,0,.5);
+}
+.demo7{
+	background: rgba(0,0,0,.8);
+	}
+.demo8{
+	background: rgba(0,0,0,.8);
+	}
+.text-color{
+	color: #aaaa9a;
+}
+.text-color:hover{
+	color: #ffa500;
+}
+.demo9{
+	background-image: url('../images/slider.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.demo9_inner_rgb{
+	background: rgba(0,0,0,.4);
+}
+.demo9_inner_link{
+	color: white;
+}
+.demo10_btn{
+	font-size: 50px;
+	color: orange;
+}
+.demo10_hover:hover{
+	color: orange;
+	cursor: pointer;
+}
+.text-color-footer{
+	color: white;
+}
+.nav_bar{
+	color: white;
+	font-size: 25px;
+}
+.nav_bar_btn{
+	color: orange;
+}
+.nav_bar_link_color a{
+	color: white;
+}
+ul li a .drop_down{
+	color: black;
+}
+.nav_bar_link_color_home:hover{
+	color: orange;
+}
+.demo11{
+	background-image: url('../images/parallex1.jpeg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.demo11_rgb{
+	background: rgba(0,0,0,.9);
+}
+.about_btn{
+	font-size: 20px;
+	border: 0px solid black;
+	border-radius: 50%;
+	background-color: orange;
+}
+
+.about_btn:hover{
+	background: #0e8df1;
+	color: white;
+}
+.demo12{
+	background-image: url('../images/parallex3.jpeg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.demo12_rgb{
+	background: rgba(0,0,0,.8);
+}
+.demo12_color{
+	color: white;
+}
+.demo12_color_p{
+	color: #6b6968;
+}
+.demo12_btn12{
+	color: orange;
+	font-size: 35px;
+	border-radius: 50%;
+	border: 1px solid orange;
+}
+.inner_hover:hover{
+	color: orange;
+	cursor: pointer;
+}
+.demorgb{
+	background: rgba(0,0,0,.5);
+}
+.cursor:hover{
+	cursor: pointer;
+}
+.nav_bar_1:hover{
+	color: orange;
+}
+.btn13:hover{
+	background-color: black;
+	color: white;
+}
